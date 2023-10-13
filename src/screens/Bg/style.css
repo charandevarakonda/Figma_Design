@@ -1,0 +1,212 @@
+.bg {
+  background-color: #ffffff;
+  height: 803px;
+  width: 1536px;
+}
+
+.bg .overlap {
+  background: linear-gradient(
+    180deg,
+    rgb(254, 221, 238) 0%,
+    rgb(252, 246, 252) 31.77%,
+    rgb(197, 234, 237) 64.58%,
+    rgb(253, 221, 254) 100%
+  );
+  filter: blur(500px);
+  height: 803px;
+  position: relative;
+}
+
+.bg .overlap-group {
+  height: 592px;
+  left: 0;
+  position: absolute;
+  top: 211px;
+  width: 1536px;
+}
+
+.bg .find-partners-cas {
+  height: 140px;
+  left: 130px;
+  position: absolute;
+  top: 48px;
+  width: 659px;
+}
+
+.bg .CONNECT-with-us {
+  color: #606060;
+  font-family: "Open Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 128px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 219px;
+  width: 676px;
+}
+
+.bg .text-wrapper {
+  font-weight: 700;
+}
+
+.bg .span {
+  color: #606060;
+  font-family: "Open Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.bg .div {
+  height: 592px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1536px;
+}
+
+.bg .search-button {
+  height: 73px;
+  left: 128px;
+  position: absolute;
+  top: 335px;
+  width: 674px;
+}
+
+.bg .overlap-group-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #bfbfbf;
+  border-radius: 10px;
+  height: 73px;
+  position: relative;
+  width: 670px;
+}
+
+.bg .text-wrapper-2 {
+  color: #aeb0b4;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+  width: 384px;
+}
+
+.bg .overlap-2 {
+  border-radius: 10px;
+  height: 73px;
+  left: 484px;
+  position: absolute;
+  top: 0;
+  width: 186px;
+}
+
+.bg .rectangle {
+  background-color: #0076ce;
+  border-radius: 10px;
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 186px;
+}
+
+.bg .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 66px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 27px;
+  white-space: nowrap;
+}
+
+.bg .vector {
+  height: 210px;
+  left: 0;
+  position: absolute;
+  top: 382px;
+  width: 1536px;
+}
+
+.bg .left {
+  align-items: flex-start;
+  display: flex;
+  gap: 16.79px;
+  left: 866px;
+  position: absolute;
+  top: 0;
+  width: 629.74px;
+}
+
+.bg .frame {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10.5px;
+  padding: 83.97px 0px 0px;
+  position: relative;
+}
+
+.bg .picture-instance {
+  background-image: url(https://c.animaapp.com/it6wbxkW/img/picture-3@2x.png) !important;
+  border-radius: 20.99px !important;
+  height: 403.03px !important;
+  position: relative !important;
+  width: 198.72px !important;
+}
+
+.bg .picture-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10.5px;
+  position: relative;
+}
+
+.bg .design-component-instance-node {
+  background-image: url(https://c.animaapp.com/it6wbxkW/img/picture-2@2x.png) !important;
+  border-radius: 20.99px !important;
+  height: 403.03px !important;
+  position: relative !important;
+  width: 198.72px !important;
+}
+
+.bg .picture-instance-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10.5px;
+  padding: 41.98px 0px 0px;
+  position: relative;
+}
+
+.bg .picture-2 {
+  background-image: url(https://c.animaapp.com/it6wbxkW/img/picture-1@2x.png) !important;
+  border-radius: 20.99px !important;
+  height: 403.03px !important;
+  position: relative !important;
+  width: 198.72px !important;
+}
+
+.bg .top-bar {
+  height: 85px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1536px;
+}
